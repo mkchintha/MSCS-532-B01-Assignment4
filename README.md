@@ -14,7 +14,7 @@ It includes implementation, theoretical analysis, and practical comparisons with
 
 ##  Contents
 
-- `heap_assignment.py`: Python source code containing:
+- Python source code containing:
   - Heapsort implementation
   - Priority Queue implementation with Task class
 - `Heap_Assignment_Report.docx`: Final report including:
